@@ -1,0 +1,22 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Hmm… apakah ini rencana latihanmu saat ini?\n… Begitu, begitu."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Oh, tolong jangan main-main denganku.\nIni bukan rencana sungguhan, kan?"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Maksudku, kau, pelatih. Kau masih\nmenyembunyikan rencana\npengorbanan diri yang besar,\nkan?"
+        },
+        {
+            "name": "Monolog",
+            "text": "… Rupanya masih ada lagi yang akan datang!"
+        }
+    ],
+    "title": "Evaluasi Reporter Etsuko"
+}

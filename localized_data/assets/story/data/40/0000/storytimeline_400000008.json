@@ -1,0 +1,18 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "(Grrringg …)",
+            "choice_data_list": [
+                "Ha..! Ternyata itu Mimpi",
+                "Ha..! Ternyata itu Mimpi"
+            ],
+            "name": "Monolog"
+        },
+        {
+            "text": "Hari Ini Waktunya Lomba. Lupakan Mimpinya\nDan Langsung Menemui <chrname> Secepatnya.",
+            "name": "Monolog"
+        }
+    ],
+    "title": "Melanjutkan"
+}

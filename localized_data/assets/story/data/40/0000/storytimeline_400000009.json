@@ -1,0 +1,18 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Direktur Akikawa",
+            "text": "Bravo! Saya terkesan dengan\nupaya kecepatanmu yang tak kenal lelah!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Teruskan kerja bagusmu! —Sekarang,\nkalau boleh, aku permisi dulu!"
+        },
+        {
+            "text": "Dia senang dengan cara kami\nberlatih…",
+            "name": "Monolog"
+        }
+    ],
+    "title": "Ketua"
+}

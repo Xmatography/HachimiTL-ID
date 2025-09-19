@@ -1,0 +1,99 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "—Setelah balapan, dalam perjalanan kembali ke\nruang tunggu, Aku bertemu seorang reporter.",
+            "name": "Monolog"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Terima kasih atas waktunya. Saya Otonashi Etsuko dari Twinkle Monthly."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": " … Saya menonton balapannya. Pertama-tama,\nterima kasih banyak atas kerja keras kalian."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Meskipun ia tidak meraih juara pertama,\nsaya rasa kepribadiannya yang unik\nterlihat dalam perlombaan ini."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "... Jadi Pelatih , Bagaimana Rencanamu \nUntuk Race Berikutnya ?",
+            "choice_data_list": [
+                "Aku serius soal hasilnya saat ini!",
+                "Gass Terus donk !"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Jadi Begitu...."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Menyesuaikan latihan berdasarkan hasil.\nSecara pribadi menghubungi ketua mengenai\nkekurangan, melakukan segalanya demi\nUma Musume…"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Sambil menerima hasilnya, mereka\nmelihat ke masa depan. Itulah tipe\npelatih yang Anda harapkan di Tracen!"
+        },
+        {
+            "text": "Tampaknya saya menanganinya dengan baik!"
+        },
+        {
+            "text": "Saya memberi tahu <chrname> setelah lomba\nbahwa wawancaranya sukses dan berterima kasih atas\nusahanya.",
+            "name": "Monolog"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Ya, saya mengerti. Saya sedikit kecewa\nkarena saya berharap mendengar\nsesuatu yang lebih konkret setelah\nhasil ini."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Terima kasih atas komentarmu.\n… Semoga kamu menang di balapan berikutnya!"
+        },
+        {
+            "text": "Kali ini, sepertinya aku\ntidak mampu banyak memengaruhi para wartawan…",
+            "name": "Monolog"
+        },
+        {
+            "color_text_info_list": [
+                "<chrname>"
+            ],
+            "text": "… Mengesampingkan liputannya, saya pergi untuk\nmenyemangati <chrname> setelah balapan."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "…"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Hebat sekali! Anda pelatih Tracen Academy yang sejati!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Percayalah dan kembangkan saja sifat-sifat uniknya\n! Jadi maksudmu, ya!? Aku mengerti!\nYang kurang hanyalah strategi dan\npengalaman!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Mungkin kamu berencana begadang\nuntuk memikirkan seratus strategi!?\nTentu saja! Ini untuk memastikan Uma-mu\nmenang!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Haa… Sungguh hubungan kepercayaan yang penuh gairah…! Saya sangat terkesan…!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Fitur kita selanjutnya sudah siap! Cepat… Aku harus\nsegera bicara dengan pemimpin redaksi…!"
+        },
+        {
+            "text": "… Sepertinya hal-hal tersebut sedikit\ndilebih-lebihkan, tetapi setidaknya\nditerima dengan baik (?)."
+        },
+        {
+            "color_text_info_list": [
+                "<chrname>"
+            ],
+            "text": "Saya menemui <chrname> setelah lomba dan\nmenceritakan kepadanya tentang wawancara tersebut."
+        }
+    ]
+}

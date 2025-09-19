@@ -1,0 +1,18 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Direktur Akikawa",
+            "text": "Joss! Caramu melatih diri\ndengan tekun sungguh anggun!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "text": "Izinkan aku mengamati sebentar!\n—Sekarang, kembali berlatih… dan berlatihlah \ndengan giat!"
+        },
+        {
+            "text": "… Direktur terkesan dengan latihanmu!",
+            "name": "Monolog"
+        }
+    ],
+    "title": "Peningkatan evaluasi ketua"
+}

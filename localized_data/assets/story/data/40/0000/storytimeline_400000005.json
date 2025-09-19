@@ -1,0 +1,16 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Direktur Akikawa",
+            "text": "Hebat! Kamu telah menunjukkan kepadaku\nantusiasmemu, sikapmu terhadap\nUmamusume!"
+        },
+        {
+            "name": "Direktur Akikawa",
+            "color_text_info_list": [
+                "Meningkatkan Fasilitas Training"
+            ],
+            "text": "Saya telah meningkatkan fasilitas pelatihan!\nSemoga sukses terus!"
+        }
+    ]
+}
